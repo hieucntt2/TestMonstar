@@ -1,0 +1,16 @@
+D:\Monstarlab\test_HackerRank\bai1\bai2\bin\Debug\net5.0\bai2.exe
+D:\Monstarlab\test_HackerRank\bai1\bai2\bin\Debug\net5.0\bai2.deps.json
+D:\Monstarlab\test_HackerRank\bai1\bai2\bin\Debug\net5.0\bai2.runtimeconfig.json
+D:\Monstarlab\test_HackerRank\bai1\bai2\bin\Debug\net5.0\bai2.runtimeconfig.dev.json
+D:\Monstarlab\test_HackerRank\bai1\bai2\bin\Debug\net5.0\bai2.dll
+D:\Monstarlab\test_HackerRank\bai1\bai2\bin\Debug\net5.0\ref\bai2.dll
+D:\Monstarlab\test_HackerRank\bai1\bai2\bin\Debug\net5.0\bai2.pdb
+D:\Monstarlab\test_HackerRank\bai1\bai2\obj\Debug\net5.0\bai2.csproj.AssemblyReference.cache
+D:\Monstarlab\test_HackerRank\bai1\bai2\obj\Debug\net5.0\bai2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Monstarlab\test_HackerRank\bai1\bai2\obj\Debug\net5.0\bai2.AssemblyInfoInputs.cache
+D:\Monstarlab\test_HackerRank\bai1\bai2\obj\Debug\net5.0\bai2.AssemblyInfo.cs
+D:\Monstarlab\test_HackerRank\bai1\bai2\obj\Debug\net5.0\bai2.csproj.CoreCompileInputs.cache
+D:\Monstarlab\test_HackerRank\bai1\bai2\obj\Debug\net5.0\bai2.dll
+D:\Monstarlab\test_HackerRank\bai1\bai2\obj\Debug\net5.0\ref\bai2.dll
+D:\Monstarlab\test_HackerRank\bai1\bai2\obj\Debug\net5.0\bai2.pdb
+D:\Monstarlab\test_HackerRank\bai1\bai2\obj\Debug\net5.0\bai2.genruntimeconfig.cache

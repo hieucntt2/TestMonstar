@@ -1,0 +1,15 @@
+D:\Monstarlab\test_HackerRank\bai1\Bai 4\bin\Debug\net5.0\Bai 4.exe
+D:\Monstarlab\test_HackerRank\bai1\Bai 4\bin\Debug\net5.0\Bai 4.deps.json
+D:\Monstarlab\test_HackerRank\bai1\Bai 4\bin\Debug\net5.0\Bai 4.runtimeconfig.json
+D:\Monstarlab\test_HackerRank\bai1\Bai 4\bin\Debug\net5.0\Bai 4.runtimeconfig.dev.json
+D:\Monstarlab\test_HackerRank\bai1\Bai 4\bin\Debug\net5.0\Bai 4.dll
+D:\Monstarlab\test_HackerRank\bai1\Bai 4\bin\Debug\net5.0\ref\Bai 4.dll
+D:\Monstarlab\test_HackerRank\bai1\Bai 4\bin\Debug\net5.0\Bai 4.pdb
+D:\Monstarlab\test_HackerRank\bai1\Bai 4\obj\Debug\net5.0\Bai 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Monstarlab\test_HackerRank\bai1\Bai 4\obj\Debug\net5.0\Bai 4.AssemblyInfoInputs.cache
+D:\Monstarlab\test_HackerRank\bai1\Bai 4\obj\Debug\net5.0\Bai 4.AssemblyInfo.cs
+D:\Monstarlab\test_HackerRank\bai1\Bai 4\obj\Debug\net5.0\Bai 4.csproj.CoreCompileInputs.cache
+D:\Monstarlab\test_HackerRank\bai1\Bai 4\obj\Debug\net5.0\Bai 4.dll
+D:\Monstarlab\test_HackerRank\bai1\Bai 4\obj\Debug\net5.0\ref\Bai 4.dll
+D:\Monstarlab\test_HackerRank\bai1\Bai 4\obj\Debug\net5.0\Bai 4.pdb
+D:\Monstarlab\test_HackerRank\bai1\Bai 4\obj\Debug\net5.0\Bai 4.genruntimeconfig.cache
